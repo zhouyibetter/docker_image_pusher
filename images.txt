@@ -1,1 +1,1 @@
-opengauss/opengauss
+opengauss
