@@ -1,3 +1,5 @@
 opengauss/opengauss:5.0.0
 dickhub/docker-osx:ventura
 amd64/mysql
+openjdk:17
+nginx
