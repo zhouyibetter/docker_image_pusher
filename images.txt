@@ -1,7 +1,3 @@
-opengauss/opengauss:5.0.0
-dickhub/docker-osx:ventura
-amd64/mysql
-openjdk:17
-openjdk:21
-nginx
-redis
+python:3.12.11
+#支持指定架构
+--platform=linux/arm64
